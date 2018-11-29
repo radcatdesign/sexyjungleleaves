@@ -5,8 +5,8 @@ var svgContainer = document.getElementById('svg-container');
 lottie.loadAnimation({
   wrapper: svgContainer,
   animType: 'svg',
-  loop: false,
-  path: 'https://raw.githubusercontent.com/radcatdesign/sexyjungleleaves/master/data.json'
+  loop: true,
+  path: 'https://cdn2.hubspot.net/hubfs/288519/rad_js/data.json'
 });
 /*});*/
 
