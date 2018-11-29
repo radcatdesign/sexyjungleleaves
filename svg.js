@@ -1,5 +1,5 @@
 /* Shapes */
-var svgContainer = document.getElementById('svgContainer');
+var svgContainer = document.getElementById('svg-container');
 
 /* $("#button").click(function() { */
 lottie.loadAnimation({
