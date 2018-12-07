@@ -15,7 +15,7 @@ lottie.loadAnimation({
   wrapper: strategyBottomLeft,
   animType: 'svg',
   loop: true,
-  path: 'https://raw.githubusercontent.com/radcatdesign/sexyjungleleaves/master/RADCAT_Strategy_Leaves_BL.json'
+  path: 'https://raw.githubusercontent.com/radcatdesign/sexyjungleleaves/master/RADCAT_Strategy_Leaves_BL_Red_v1.json'
 });
 
 lottie.setSpeed(1.5);
