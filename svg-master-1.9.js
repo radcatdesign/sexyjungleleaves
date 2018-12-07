@@ -7,7 +7,7 @@ lottie.loadAnimation({
   wrapper: svgContainer,
   animType: 'svg',
   loop: true,
-  path: 'https://raw.githubusercontent.com/radcatdesign/sexyjungleleaves/master/RADCAT_Strategy_Leaves_TR.json'
+  path: 'https://raw.githubusercontent.com/radcatdesign/sexyjungleleaves/master/RADCAT_Strategy_Leaves_TR_Red_v1.json'
 });
 /*});*/
 
